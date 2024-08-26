@@ -1,0 +1,44 @@
+.egor1{
+    width: 400px;
+    height: 200px;
+    background: pink;
+}
+
+.egor2{
+    background: rgba(192, 22, 51, 0.23);
+}
+
+.main_block{
+    width: 800px;
+    height: 550px;
+
+    background-image: url(../img/house.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    background: url(../img/house.jpg) no-repeat center/cover;
+
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+.about{
+    width: 900px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(8, 8, 233);
+    text-align: justify;
+    border: 3px solid red;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    font-family: sans-serif;
+    line-height: 27px;
+}
+
+/* margin */
